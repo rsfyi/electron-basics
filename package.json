@@ -1,0 +1,24 @@
+{
+  "name": "elctron-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsdoc/electron-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsdoc/electron-basics/issues"
+  },
+  "homepage": "https://github.com/rsdoc/electron-basics#readme",
+  "dependencies": {
+    "electron": "^8.2.3",
+    "marked": "^0.8.2"
+  }
+}
